@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+ Legal work is still burdened by disconnected siloed documents, by language inaccessible to non-lawyers, by conflicting precedent, and by the effort to transform spoken proceedings into useable notes. These costs ripple differently through the experience of ordinary users, practitioners and judges. We present a platform, “LawSphere,” which combines multi- agent information retrieval with an audio and video stream recording capability. Existing Indian court records are combined with the stream and indexed.
+There are three ways to use the system: non- lawyers are offered colloquial responses, help to find advocates and contract risk reports; advocates receive estimates of the likely outcome, comparable cases, alerts for omissions, and possible counterarguments. Judges are given relevant justifications extracted from judgments, sets of similar outcomes, condensations of extensive histories and warnings if sentencing norms seem irregular; it is aided by specialised agents dealing with reason, precedent, risk and consistency, and a final review filters unsupported citation of sources. On the Indian records, this pipeline achieved almost nine-tenths accuracy in results we surveyed at fifth position and sustained two percent unwarranted statements while providing us live spoken proceedings as structured records.
